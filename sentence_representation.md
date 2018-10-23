@@ -3,6 +3,7 @@
 - Toolkit developed by Facebook AI Research (FAIR) for **evaluating** the quality of universal sentence representations.
 - Useful resources:
   - [Official implementation](https://github.com/facebookresearch/SentEval)
+  - [Installation guideline](https://gist.github.com/loretoparisi/9311328876526f37f4893de3c293bd46)
 
 ### USE (2018)
 - [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf) . Daniel Cer, Yinfei Yang, Sheng-yi Kong, Nan Hua, Nicole Limtiaco, Rhomni St. John, Noah Constant, Mario Guajardo-Céspedes, Steve Yuan, Chris Tar, Yun-Hsuan Sung, Brian Strope, Ray Kurzweil. arXiv:1803.11175, 2018.
