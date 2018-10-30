@@ -13,4 +13,5 @@
 
 ## Conferences
 
+- [EMNLP (Conference on Empirical Methods in Natural Language Processing)](http://emnlp2018.org)
 - [CoNLL (The SIGNLL Conference on Computational Natural Language Learning)](http://www.conll.org)
