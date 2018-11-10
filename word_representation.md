@@ -12,7 +12,7 @@
   - [ELMo in TensorFlow Hub](https://tfhub.dev/google/elmo/2)
   - [ELMo in Wolfram Cloud](https://resources.wolframcloud.com/NeuralNetRepository/resources/ELMo-Contextual-Word-Representations-Trained-on-1B-Word-Benchmark)
   
-### BERT(2018)
+### BERT (2018)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805). Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, 2018.
 - Developed by Google AI Language and create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.
 - Useful resources:
