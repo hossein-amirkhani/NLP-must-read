@@ -1,3 +1,9 @@
+### BERT (2018)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805). Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, 2018.
+- Developed by Google AI Language and creates state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.
+- Useful resources:
+   - [Official implementation](https://github.com/google-research/bert)
+
 ### UncoVec (2018)
 - [Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](http://aclweb.org/anthology/K18-1028) . Mikel Artetxe, Gorka Labaka, Inigo Lopez-Gazpio, Eneko Agirre . CoNLL, 2018.
 - The winner of CoNLL 2018 best paper award.
@@ -11,3 +17,4 @@
 - Useful resources:
   - [ELMo in TensorFlow Hub](https://tfhub.dev/google/elmo/2)
   - [ELMo in Wolfram Cloud](https://resources.wolframcloud.com/NeuralNetRepository/resources/ELMo-Contextual-Word-Representations-Trained-on-1B-Word-Benchmark)
+ 
